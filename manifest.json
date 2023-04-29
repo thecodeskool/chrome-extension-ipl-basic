@@ -1,0 +1,11 @@
+{
+    "name": "My Chrome Extension",
+    "version": "1.0.0",
+    "description": "Best extension in the world",
+    "manifest_version": 3,
+    "author": "Deevankshu Garg",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extension"
+    }
+}
